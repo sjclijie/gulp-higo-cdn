@@ -1,0 +1,24 @@
+{
+  "name": "gulp-higo-cdn",
+  "version": "0.1.0",
+  "description": "higo cdn gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "higo"
+  ],
+  "repository": {
+      "type":"git",
+      "url":"https://github.com/sjclijie/gulp-higo-cdn.git",
+  },
+  "author": "jaylee",
+  "license": "MIT",
+  "devDependencies": {
+    "higo-cdn": "^0.2.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.0"
+  }
+}
